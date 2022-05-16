@@ -1,0 +1,20 @@
+{
+    "usuarios":[
+        {
+            "id":1,
+            "primerApellido": "Cetina",
+            "segundoApellido": "Berdugo",
+            "nombre": "Juan",
+            "username": "juan5",
+            "password": "12345"
+        },
+        {
+            "id":2,
+            "primerApellido": "Gomez",
+            "segundoApellido": "Fernandez",
+            "nombre": "felipe",
+            "username": "Felipe54",
+            "password": "12345"
+        }
+    ]
+}
